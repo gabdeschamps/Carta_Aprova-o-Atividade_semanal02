@@ -8,5 +8,5 @@
   </div>
 
   <div>
-    <img src="https://sescongf.com.br/wp-content/uploads/2019/04/Logo-Univali-final.png">
+    <img src="https://sescongf.com.br/wp-content/uploads/2019/04/Logo-Univali-final.png" hight: 50px; >
   </div>
